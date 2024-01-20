@@ -1,0 +1,61 @@
+.box {
+	border: 5px solid white;
+	border-radius: 5vw;
+	width: 80vw;
+	font-size: 4vw;
+	text-align: center;
+	padding: 0 0 5vw;
+	word-break: break-word;
+	background-color: #f4f6f6;
+	margin: 3% auto;
+	
+}
+
+.randombox {
+	border: 5px solid white;
+	border-radius: 5vw;
+	width: 80vw;
+	font-size: 4vw;
+	text-align: center;
+	word-break: break-word;
+	background-color: #f4f6f6;
+	margin: 3vh auto;
+	
+}
+
+.searchpage {
+	width: 100%;
+	height: 100%;
+	font-size: 4vw;
+	text-align: center;
+	word-break: break-word;
+	background-color: #f4f6f6;
+	margin: auto;
+	
+}
+
+.randompage {
+	width: 100%;
+	height: 100%;
+	font-size: 4vw;
+	text-align: center;
+	word-break: break-word;
+	background-color: #f4f6f6;
+	margin: auto;
+	
+}
+
+.randombutton {
+	width: 22vw;
+	height: 5vw;
+	font-size: 4vw;
+}
+
+form [input="text"] {
+	font-size: calc(1em+1vw);
+}
+
+html {
+        font-size: calc(1em+5vw);
+	background-color: #d7bde2;
+}
